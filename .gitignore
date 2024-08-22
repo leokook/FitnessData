@@ -1,0 +1,11 @@
+# Ignore all files and folders
+*
+
+# Do not ignore the .gitignore file itself
+!.gitignore
+
+# Do not ignore the DataExtractor.ipynb and SmallAnalysis.ipynb files
+!DataExtractor.ipynb
+!SmallAnalysis.ipynb
+!README.md
+!requirements.txt
